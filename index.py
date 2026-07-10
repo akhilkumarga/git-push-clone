@@ -1,1 +1,1 @@
-f2 py of main
+print("Hello, World!")
